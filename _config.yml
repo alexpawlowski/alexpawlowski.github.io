@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Upcycl3d
 tagline:          'Melding E-Waste with Plant Waste'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A concept FFF 3d printer that not only upcycles discarded e-waste but puts plant waste to use as material for new printed objects. Developed by <a href="https://twitter.com/alexpawlowski_" target="_blank">@alexpawlowski_</a>.'
 baseurl:          /
 
 author:
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
   repo:           https://github.com/Upcycl3d
