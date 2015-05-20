@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Upcycl3d
+tagline:          'Melding E-Waste with Plant Waste'
+description:      'A concept FFF 3d printer that not only upcycles discarded e-waste but puts plant waste to use as material for new printed objects. Developed by <a href="https://twitter.com/alexpawlowski_" target="_blank">@alexpawlowski_ </a> and <a href="https://twitter.com/bova_fett" target="_blank">@bova_fett.'
+baseurl:          /
+
+author:
+  name:           'Upcycl3d Printer'
+  url:            https://twitter.com/Upcycl3d
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/Upcycl3d
