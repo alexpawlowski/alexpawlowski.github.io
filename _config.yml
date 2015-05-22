@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Alex Pawlowski
 tagline:          'Melding E-Waste with Plant Waste'
-description:      'Triathlete. Graduate Student at the University of Tennessee working towards a PhD in Energy Science and Engineering focusing in Transportation Science. Follow my musings on Twitter: <a href="https://twitter.com/AlexPawlowski_">@AlexPawlowski_</a>'
+description:      'Triathlete. Graduate Student at the University of Tennessee working towards a PhD in Energy Science and Engineering focusing in Transportation Science.'
 baseurl:          /
 
 author:
