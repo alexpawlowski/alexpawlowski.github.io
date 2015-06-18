@@ -4,27 +4,13 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I'm Alex Pawlowski, and thanks for stopping by. Let me tell you a little about myself
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Born and raised in Virginia Beach, I began a PhD program in Energy Science and Engineering at University of Tennessee Knoxville in June of 2014. Currently, I am conducting research in additive manufacturing of engine components to not only improve AM techniques, but find paths forward that AM could provide to transportation.
 
-There are currently two themes built on Poole:
+At the University of Virginia, I completed a Double Major in Mechanical Engineering and Material Science through the Engineering Science Program. While at UVa I competed with the Triathlon Team at the University of Virginia where I came to love the sport, competing in 12 races and 2 National Championships.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+While I had a lot of involvements, each one helped to exercise my diverse passions and prepare me for a dream career in the automotive industry of which I hope to achieve following my completion of my PhD with the Bredesen Center. Follow my rants and raves on Twitter: [@alexpawlowski_](https://twitter.com/alexpawlowski_).
 
 Thanks for reading!
