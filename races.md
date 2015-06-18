@@ -4,7 +4,7 @@ title: Races
 ---
 
 <p class="message">
-  Below is a good list of the triathlons I have competed in so far
+  Below is a good list of the triathlons I have competed in so far. The list will soon be complete, as my memory is juggled.
 </p>
 
 ### 2015
@@ -17,7 +17,7 @@ title: Races
 
 ### 2014
 
-*    - Half Marathon - Foothills Half - Alcoa, TN
+*    Half Marathon - Foothills Half - Alcoa, TN
 
 * 17 - Olympic - REV3 Anderson - SEC Championships - Anderson, SC
 
@@ -25,34 +25,45 @@ title: Races
 
 * 15 - Sprint - Anchor Splash Triathlon - Knoxville, TN
 
-## Began Graduate Work
+#### Began Graduate Work
 
 Didn't race any in the Spring due to a crazy last semester at UVa haha
 
 ### 2013
 
+* 13 - Olympic - Cancer - MACTC Conference Champs - Columbia, MD
+
+* 12 - Sprint - Liberty University Lynchburg, VA
+
+* 11 - 
+
+
 * 9 - Olympic - 2013 USAT Collegiate Nationals - Tempe, AZ
 
-
+* Sprint 
 
 ### 2012
 
+* 8 - Olympic+ (40 miles) - Cancer 40 - MACTC Conference Champs - Columbia, MD - Raced with Lance Armstrong
 
+* 7 - Sprint - Lake Lure
 
-* 5 - Olympic - 2012 USAT Collegiate Nationals - Tuscaloosa, AL
+* 6 - Olympic - 2012 USAT Collegiate Nationals - Tuscaloosa, AL
 
-* 4 - Sprint - Smithfield Triathlon - Smithfield, VA
+* 5 - Sprint - Smithfield Triathlon - Smithfield, VA
 
 ### 2011
 
-* 4 - Sprint - VA September xxth - Won 16-19 Age Group
+* Cville Ten Miler
 
-* 3 - Sprint - Jefferson Sprint Triathlon 
+* 4 - Sprint - Wilmington
+
+* 3 - Sprint - Naylor Beach Triathlon - Naylor Beach, VA September xxth - Won 16-19 Age Group
+
+* 2 - Sprint - Jefferson Sprint Triathlon - Raced during Hurricane Irene!
 
 47/66 06:59.426 300m swim - 01:26 T1 - 01:00:34.36 12 miles (11.89 mph) bike - 00:23 T2 - 27:25.093 (08:51 / mile) 5K [Results](http://cms.results.frontrunnertiming.com/2011/Athletes/Results.aspx?raceKey=3B8E5768-97CD-446C-9D5E-9C8B41A74F0C&athleteId=150)
 
-
-* 2 -
 
 * 1 - Sprint - Wilmington, NC March 12th - FIRST EVER RACE
 
