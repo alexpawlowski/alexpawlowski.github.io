@@ -52,7 +52,55 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 * 6 - Olympic - 2012 USAT Collegiate Nationals - Tuscaloosa, AL
 
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
-173/xxx 96	00:05:22	75	00:01:38	203	00:33:58	7	00:00:42	195	00:25:39	 	01:07:17 [Results] (http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819)
+<table>
+  <thead>
+    <tr>
+      <th>Finish</th>
+      <th>Swim</th>
+      <th>T1</th>
+      <th>Bike</th>
+      <th>T2</th>
+      <th>Run</th>
+      <th>Total</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Pace</td>
+      <td>/ 100m </td>
+      <td></td>
+      <td>18 mph</td>
+      <td></td>
+      <td>/ mile</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>173/xxx</td>
+      <td>05:22</td>
+      <td>01:38</td>
+      <td>33:58</td>
+      <td>00:42</td>
+      <td>00:25:39</td>
+      <td>01:07:17</td>
+      <td><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
+    </tr>
+    <tr>
+      <td>Distance</td>
+      <td>300m</td>
+      <td></td>
+      <td>10 mi</td>
+      <td></td>
+      <td>5k</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+ 96		75		203	00:	7	00:	195		
 
 ### 2011
 
