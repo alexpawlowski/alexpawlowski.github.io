@@ -52,6 +52,7 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 * 6 - Olympic - 2012 USAT Collegiate Nationals - Tuscaloosa, AL
 
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
+<div class="table-responsive"> 
 <table>
    <thead>
     <tr>
@@ -100,6 +101,7 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
     </tr>
   </tbody>
 </table>
+</div>
  96		75		203	00:	7	00:	195		
 
 ### 2011
