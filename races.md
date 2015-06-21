@@ -53,7 +53,7 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
 <div class="table-responsive"> 
-<table>
+<table class="table">
    <thead>
     <tr>
       <th>Finish</th>
@@ -111,7 +111,8 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 * 3 - Sprint - Wilmington YMCA Triathlon 2011 - Wilmington, NC September 17th 
 
 * 2 - Sprint - Jefferson Sprint Triathlon - Raced during Hurricane Irene!
-<table>
+<div class="table-responsive"> 
+<table class="table">
   <thead>
     <tr>
       <th>Finish</th>
@@ -155,7 +156,7 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
     </tr>
   </tbody>
 </table>
-
+</div>
 #### Spring
 
 * Cville Ten Miler
