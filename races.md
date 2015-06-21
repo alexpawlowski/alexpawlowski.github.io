@@ -54,39 +54,56 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
 
 <table>
-   <thead>
-    <tr>
-      <th>Finish</th>
-      <th>Swim</th>
-      <th>T1</th>
-      <th>Bike</th>
-      <th>T2</th>
-      <th>Run</th>
-      <th>Total</th>
-      <th></th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td data-label="Finish">Pace</td>
-      <td data-label="Swim">/ 100m </td>
-      <td data-label="T1"></td>
-      <td data-label="Bike">18 mph</td>
-      <td data-label="T2"></td>
-      <td data-label="Run">/ mile</td>
-      <td data-label="Total"></td>
-      <td data-label=""></td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td data-label="Finish">173/xxx</td>
-      <td data-label="Swim">05:22</td>
-      <td data-label="T1">01:38</td>
-      <td data-label="Bike">33:58</td>
-      <td data-label="T2">00:42</td>
-      <td data-label="Run">00:25:39</td>
-      <td data-label="Total">01:07:17</td>
+  <tr>
+    <th></th>
+    <th>Time</th>
+    <th>Place</th>
+    <th>Distance</th>
+    <th>Pace</th>
+  </tr>
+  <tr>
+    <td>Swim</td>
+    <td>05:22</td>
+    <td>96</td>
+    <td>300 m</td>
+    <td> / 100m</td>
+  </tr>
+  <tr>
+    <td>T1</td>
+    <td>01:38</td>
+    <td>75</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bike</td>
+    <td>33:58</td>
+    <td>203</td>
+    <td>10 mi</td>
+    <td>18 mph</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>00:42</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Run</td>
+    <td>25</td>
+    <td>195</td>
+    <td>5k</td>
+    <td> / mile</td>
+  </tr>
+  <tr>
+    <td>Finish</td>
+    <td>01:07:17</td>
+    <td>173</td>
+    <td><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
+    <td></td>
+  </tr>
+</table>
       <td data-label=""><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
     </tr>
     <tr>
@@ -101,7 +118,7 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
     </tr>
   </tbody>
 </table>
-</div>
+
  96		75		203	00:	7	00:	195		
 
 ### 2011
