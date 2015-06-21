@@ -55,53 +55,53 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 
 <table>
   <tr>
-    <th></th>
+    <th>Event</th>
     <th>Time</th>
     <th>Place</th>
     <th>Distance</th>
     <th>Pace</th>
   </tr>
   <tr>
-    <td data-label="Swim">Swim</td>
-    <td data-label="Swim">05:22</td>
-    <td data-label="Swim">96</td>
-    <td data-label="Swim">300 m</td>
-    <td data-label="Swim"> / 100m</td>
+    <td data-label="Event">Swim</td>
+    <td data-label="Time">05:22</td>
+    <td data-label="Place">96</td>
+    <td data-label="Distance">300 m</td>
+    <td data-label="Pace"> / 100m</td>
   </tr>
   <tr>
-    <td data-label="T1">T1</td>
-    <td data-label="T1">01:38</td>
-    <td data-label="T1">75</td>
-    <td data-label="T1"> </td>
-    <td data-label="T1"> </td>
+    <td data-label="Event">T1</td>
+    <td data-label="Time">01:38</td>
+    <td data-label="Place">75</td>
+    <td data-label="Distance"> </td>
+    <td data-label="Pace"> </td>
   </tr>
   <tr>
-    <td data-label="Bike">Bike</td>
-    <td data-label="Bike">33:58</td>
-    <td data-label="Bike">203</td>
-    <td data-label="Bike">10 mi</td>
-    <td data-label="Bike">18 mph</td>
+    <td data-label="Event">Bike</td>
+    <td data-label="Time">33:58</td>
+    <td data-label="Place">203</td>
+    <td data-label="Distance">10 mi</td>
+    <td data-label="Pace">18 mph</td>
   </tr>
   <tr>
-    <td data-label="T2">T2</td>
-    <td data-label="T2">00:42</td>
-    <td data-label="T2">7</td>
-    <td data-label="T2"></td>
-    <td data-label="T2"></td>
+    <td data-label="Event">T2</td>
+    <td data-label="Time">00:42</td>
+    <td data-label="Place">7</td>
+    <td data-label="Distance"></td>
+    <td data-label="Pace"></td>
   </tr>
   <tr>
-    <td data-label="Run">Run</td>
-    <td data-label="Run">25</td>
-    <td data-label="Run">195</td>
-    <td data-label="Run">5k</td>
-    <td data-label="Run"> / mile</td>
+    <td data-label="Event">Run</td>
+    <td data-label="Time">25</td>
+    <td data-label="Place">195</td>
+    <td data-label="Distance">5k</td>
+    <td data-label="Pace"> / mile</td>
   </tr>
   <tr>
-    <td data-label="Finish">Finish</td>
-    <td data-label="Finish">01:07:17</td>
-    <td data-label="Finish">173</td>
-    <td data-label="Finish"><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
-    <td data-label="Finish"> </td>
+    <td data-label="Event">Finish</td>
+    <td data-label="Time">01:07:17</td>
+    <td data-label="Place">173</td>
+    <td data-label="Distance"><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
+    <td data-label="Pace"> </td>
   </tr>
 </table>
 
