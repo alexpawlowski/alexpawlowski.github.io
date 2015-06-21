@@ -62,64 +62,49 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
     <th>Pace</th>
   </tr>
   <tr>
-    <td>Swim</td>
-    <td>05:22</td>
-    <td>96</td>
-    <td>300 m</td>
-    <td> / 100m</td>
+    <td data-label="Swim">Swim</td>
+    <td data-label="Swim">05:22</td>
+    <td data-label="Swim">96</td>
+    <td data-label="Swim">300 m</td>
+    <td data-label="Swim"> / 100m</td>
   </tr>
   <tr>
-    <td>T1</td>
-    <td>01:38</td>
-    <td>75</td>
-    <td></td>
-    <td></td>
+    <td data-label="T1">T1</td>
+    <td data-label="T1">01:38</td>
+    <td data-label="T1">75</td>
+    <td data-label="T1"> </td>
+    <td data-label="T1"> </td>
   </tr>
   <tr>
-    <td>Bike</td>
-    <td>33:58</td>
-    <td>203</td>
-    <td>10 mi</td>
-    <td>18 mph</td>
+    <td data-label="Bike">Bike</td>
+    <td data-label="Bike">33:58</td>
+    <td data-label="Bike">203</td>
+    <td data-label="Bike">10 mi</td>
+    <td data-label="Bike">18 mph</td>
   </tr>
   <tr>
-    <td>T2</td>
-    <td>00:42</td>
-    <td>7</td>
-    <td></td>
-    <td></td>
+    <td data-label="T2">T2</td>
+    <td data-label="T2">00:42</td>
+    <td data-label="T2">7</td>
+    <td data-label="T2"></td>
+    <td data-label="T2"></td>
   </tr>
   <tr>
-    <td>Run</td>
-    <td>25</td>
-    <td>195</td>
-    <td>5k</td>
-    <td> / mile</td>
+    <td data-label="Run">Run</td>
+    <td data-label="Run">25</td>
+    <td data-label="Run">195</td>
+    <td data-label="Run">5k</td>
+    <td data-label="Run"> / mile</td>
   </tr>
   <tr>
-    <td>Finish</td>
-    <td>01:07:17</td>
-    <td>173</td>
-    <td><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
-    <td></td>
+    <td data-label="Finish">Finish</td>
+    <td data-label="Finish">01:07:17</td>
+    <td data-label="Finish">173</td>
+    <td data-label="Finish"><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
+    <td data-label="Finish"> </td>
   </tr>
-</table>
-      <td data-label=""><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
-    </tr>
-    <tr>
-      <td data-label="Finish">Distanc</td>
-      <td data-label="Swim">300m</td>
-      <td data-label="T1"></td>
-      <td data-label="Bike">10 mi</td>
-      <td data-label="T2"></td>
-      <td data-label="Run">5k</td>
-      <td data-label="Total"></td>
-      <td data-label=""></td>
-    </tr>
-  </tbody>
 </table>
 
- 96		75		203	00:	7	00:	195		
 
 ### 2011
 
