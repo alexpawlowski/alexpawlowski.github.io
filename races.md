@@ -52,8 +52,8 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 * 6 - Olympic - 2012 USAT Collegiate Nationals - Tuscaloosa, AL
 
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
-<div class="table-responsive"> 
-<table class="table">
+
+<table>
    <thead>
     <tr>
       <th>Finish</th>
@@ -68,36 +68,36 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
   </thead>
   <tfoot>
     <tr>
-      <td>Pace</td>
-      <td>/ 100m </td>
-      <td></td>
-      <td>18 mph</td>
-      <td></td>
-      <td>/ mile</td>
-      <td></td>
-      <td></td>
+      <td data-label="Finish">Pace</td>
+      <td data-label="Swim">/ 100m </td>
+      <td data-label="T1"></td>
+      <td data-label="Bike">18 mph</td>
+      <td data-label="T2"></td>
+      <td data-label="Run">/ mile</td>
+      <td data-label="Total"></td>
+      <td data-label=""></td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>173/xxx</td>
-      <td>05:22</td>
-      <td>01:38</td>
-      <td>33:58</td>
-      <td>00:42</td>
-      <td>00:25:39</td>
-      <td>01:07:17</td>
-      <td><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
+      <td data-label="Finish">173/xxx</td>
+      <td data-label="Swim">05:22</td>
+      <td data-label="T1">01:38</td>
+      <td data-label="Bike">33:58</td>
+      <td data-label="T2">00:42</td>
+      <td data-label="Run">00:25:39</td>
+      <td data-label="Total">01:07:17</td>
+      <td data-label=""><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
     </tr>
     <tr>
-      <td>Distance</td>
-      <td>300m</td>
-      <td></td>
-      <td>10 mi</td>
-      <td></td>
-      <td>5k</td>
-      <td></td>
-      <td></td>
+      <td data-label="Finish">Distanc</td>
+      <td data-label="Swim">300m</td>
+      <td data-label="T1"></td>
+      <td data-label="Bike">10 mi</td>
+      <td data-label="T2"></td>
+      <td data-label="Run">5k</td>
+      <td data-label="Total"></td>
+      <td data-label=""></td>
     </tr>
   </tbody>
 </table>
