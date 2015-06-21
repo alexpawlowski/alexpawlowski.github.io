@@ -54,13 +54,13 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
 
 <table>
-  <tr>
+  <thead>
     <th>Event</th>
     <th>Time</th>
     <th>Place</th>
     <th>Distance</th>
     <th>Pace</th>
-  </tr>
+  </thead>
   <tr>
     <td data-label="Event">Swim</td>
     <td data-label="Time">05:22</td>
