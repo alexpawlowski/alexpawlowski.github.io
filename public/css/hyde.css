@@ -113,13 +113,16 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Roboto Thin", sans-serif;
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 .sidebar-location img {
   margin: 0 auto 0.5rem auto;
   width: 50px;
   height: 50px;
   overflow: hidden;
+  .marker{
+    fill: #fff;
+  }
 }
 /* Sidebar nav */
 .sidebar-nav {
