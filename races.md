@@ -4,14 +4,20 @@ title: Races
 ---
 
 <p class="message">
-  Below is a good list of the triathlons I have competed in so far. The list will soon be complete, as my memory is juggled.
+  Below is a good list of the triathlons I have competed in so far. The list will soon be complete, as I fill in my memory blanks
 </p>
 
 ### 2015
 
+* 19* - Sprint - Storm the Fort Triathlon - Kingston, TN August 22nd
+
+* 18* - Sprint - West Side Y Triathlon - Knoxville, TN July 11th
+
+#### Spring
+
 * 17 - Olympic - 2015 USAT Collegiate Nationals - Clemson, SC
 
-* 16 - 5K leg of Sprint - Trideltathon - Knoxville, TN 2nd in
+* 16 - 5K leg of Sprint - Trideltathon - Knoxville, TN 2nd in Mixed - Relay Division
 
 * 15 - Sprint - Columbia Sprint Triathlon - Columbia, SC
 
@@ -27,14 +33,13 @@ title: Races
 
 #### Began Graduate Work
 
-Didn't race any in the Spring due to a crazy last semester at UVa haha
+Didn't race any in the Spring due to a crazy last semester haha
 
 ### 2013
 
 * 11 - Olympic - Half Full Triathlon - MACTC Conference Champs - Columbia, MD
 
 * 10 - Sprint - Liberty University Lynchburg, VA
-
 
 * 9 - Olympic - 2013 USAT Collegiate Nationals - Tempe, AZ
 
@@ -104,7 +109,6 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
     <td> </td>
   </tr>
 </table>
-
 
 ### 2011
 
