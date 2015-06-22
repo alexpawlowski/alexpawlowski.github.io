@@ -83,6 +83,31 @@ html {
   font-size: 3.25rem;
 }
 
+.sidebar-about img {
+  margin: 0 auto 0.5rem auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+@media (min-width: 48em) {
+  .sidebar-about img {
+    margin: 0 0 0.75rem 0;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+}
+@media (min-width: 58em) {
+  .sidebar-about img {
+    margin: 0 0 1rem 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+}
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
@@ -215,7 +240,7 @@ a.sidebar-nav-item:focus {
 
 /* Cyan */
 .theme-base-0c .sidebar {
-  background-color: #009688; 
+  background-color: #009688;
   /* #75b5aa */
 }
 .theme-base-0c .content a,
