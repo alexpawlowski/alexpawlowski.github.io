@@ -1,6 +1,25 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+
+    <style>
+  .round {
+      border-radius: 50%;
+      overflow: hidden;
+      width: 150px;
+      height: 150px;
+  }
+  .round img {
+      display: block;
+  /* Stretch
+        height: 100%;
+        width: 100%; */
+  min-width: 100%;
+  min-height: 100%;
+  }
+    </style>
+      <div class="round">
+          <img src="_images/linkedin-photo-square.jpg" />
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
