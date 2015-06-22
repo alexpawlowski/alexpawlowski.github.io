@@ -115,46 +115,56 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 * 2 - Sprint - Jefferson Sprint Triathlon - Raced during Hurricane Irene!
 
 <table>
-  <thead>
+  <tr>
     <th>Event</th>
     <th>Time</th>
     <th>Place</th>
     <th>Distance</th>
     <th>Pace</th>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Pace</td>
-      <td>02:19 / 100m </td>
-      <td></td>
-      <td>11.89 mph</td>
-      <td></td>
-      <td>08:51 / mile</td>
-      <td></td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>47/66</td>
-      <td>06:59.426</td>
-      <td>01:26</td>
-      <td>01:00:34.36</td>
-      <td>00:23</td>
-      <td>27:25.093</td>
-      <td><a href="http://cms.results.frontrunnertiming.com/2011/Athletes/Results.aspx?raceKey=3B8E5768-97CD-446C-9D5E-9C8B41A74F0C&athleteId=150">Results</a></td>
-    </tr>
-    <tr>
-      <td>Distance</td>
-      <td>300m</td>
-      <td></td>
-      <td>12 mi</td>
-      <td></td>
-      <td>5k</td>
-      <td></td>
-    </tr>
-  </tbody>
+  </tr>
+  <tr>
+    <td>Swim</td>
+    <td>06:59.426</td>
+    <td></td>
+    <td>300m</td>
+    <td>02:19 / 100m</td>
+  </tr>
+  <tr>
+    <td>T1</td>
+    <td>1:26</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bike</td>
+    <td>1:00:34</td>
+    <td></td>
+    <td>12 mi</td>
+    <td>11.89 mph</td>
+  </tr>
+  <tr>
+    <td>T2</td>
+    <td>0:23</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Run</td>
+    <td>27:25.093</td>
+    <td></td>
+    <td>5k</td>
+    <td>08:51 / mile</td>
+  </tr>
+  <tr>
+    <td>Finish</td>
+    <td></td>
+    <td>47</td>
+    <td><a href="http://cms.results.frontrunnertiming.com/2011/Athletes/Results.aspx?raceKey=3B8E5768-97CD-446C-9D5E-9C8B41A74F0C&athleteId=150">Results</a></td>
+    <td></td>
+  </tr>
 </table>
-</div>
 #### Spring
 
 * Cville Ten Miler
