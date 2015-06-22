@@ -11,7 +11,7 @@ title: Races
 
 * 17 - Olympic - 2015 USAT Collegiate Nationals - Clemson, SC
 
-* 16 - 5K leg of Sprint - Trideltathon - Knoxville, TN 2nd in 
+* 16 - 5K leg of Sprint - Trideltathon - Knoxville, TN 2nd in
 
 * 15 - Sprint - Columbia Sprint Triathlon - Columbia, SC
 
@@ -62,46 +62,46 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
     <th>Pace</th>
   </thead>
   <tr>
-    <td data-label="Event">Swim</td>
-    <td data-label="Time">05:22</td>
-    <td data-label="Place">96</td>
-    <td data-label="Distance">300 m</td>
-    <td data-label="Pace"> / 100m</td>
+    <td>Swim</td>
+    <td>05:22</td>
+    <td>96</td>
+    <td>300 m</td>
+    <td> / 100m</td>
   </tr>
   <tr>
-    <td data-label="Event">T1</td>
-    <td data-label="Time">01:38</td>
-    <td data-label="Place">75</td>
-    <td data-label="Distance"> </td>
-    <td data-label="Pace"> </td>
+    <td>T1</td>
+    <td>01:38</td>
+    <td>75</td>
+    <td> </td>
+    <td> </td>
   </tr>
   <tr>
-    <td data-label="Event">Bike</td>
-    <td data-label="Time">33:58</td>
-    <td data-label="Place">203</td>
-    <td data-label="Distance">10 mi</td>
-    <td data-label="Pace">18 mph</td>
+    <td>Bike</td>
+    <td>33:58</td>
+    <td>203</td>
+    <td>10 mi</td>
+    <td>18 mph</td>
   </tr>
   <tr>
-    <td data-label="Event">T2</td>
-    <td data-label="Time">00:42</td>
-    <td data-label="Place">7</td>
-    <td data-label="Distance"></td>
-    <td data-label="Pace"></td>
+    <td>T2</td>
+    <td>00:42</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td data-label="Event">Run</td>
-    <td data-label="Time">25</td>
-    <td data-label="Place">195</td>
-    <td data-label="Distance">5k</td>
-    <td data-label="Pace"> / mile</td>
+    <td>Run</td>
+    <td>25</td>
+    <td>195</td>
+    <td>5k</td>
+    <td> / mile</td>
   </tr>
   <tr>
-    <td data-label="Event">Finish</td>
-    <td data-label="Time">01:07:17</td>
-    <td data-label="Place">173</td>
-    <td data-label="Distance"><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
-    <td data-label="Pace"> </td>
+    <td>Finish</td>
+    <td>01:07:17</td>
+    <td>173</td>
+    <td><a href="http://www.setupevents.com/index.cfm?fuseaction=event_results&id=2819">Results</a></td>
+    <td> </td>
   </tr>
 </table>
 
@@ -110,21 +110,17 @@ Didn't race any in the Spring due to a crazy last semester at UVa haha
 
 * 4 - Sprint - Naylor Beach Triathlon - Naylor Beach, VA September 25th - Won 16-19 Age Group! [Results] (http://www.fasttrackcoaching.net/timing/Results/2011-NAYLORS-BEACH-RESULTS.txt)
 
-* 3 - Sprint - Wilmington YMCA Triathlon 2011 - Wilmington, NC September 17th 
+* 3 - Sprint - Wilmington YMCA Triathlon 2011 - Wilmington, NC September 17th
 
 * 2 - Sprint - Jefferson Sprint Triathlon - Raced during Hurricane Irene!
-<div class="table-responsive"> 
-<table class="table">
+
+<table>
   <thead>
-    <tr>
-      <th>Finish</th>
-      <th>Swim</th>
-      <th>T1</th>
-      <th>Bike</th>
-      <th>T2</th>
-      <th>Run</th>
-      <th></th>
-    </tr>
+    <th>Event</th>
+    <th>Time</th>
+    <th>Place</th>
+    <th>Distance</th>
+    <th>Pace</th>
   </thead>
   <tfoot>
     <tr>
