@@ -117,7 +117,7 @@ html {
   display: inline-block;
 }
 .sidebar-location i {
-  margin: 0 auto 0 auto;
+  margin: 0.5rem auto 0 auto;
   display: inline-block;
   overflow: hidden;
   }
