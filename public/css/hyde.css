@@ -109,22 +109,6 @@ html {
   }
 }
 
-.sidebar-location h5 {
-  color: #fff;
-  margin-top: 0;
-  font-family: "Roboto Thin", sans-serif;
-  font-size: 1.25rem;
-  display: inline-block;
-}
-.sidebar-location i {
-  margin: 0.5rem auto 0 auto;
-  display: inline-block;
-  overflow: hidden;
-  margin-left: 0.3em;
-  margin-bottom: 0.1em;
-  line-height: 1em;
-  }
-}
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
@@ -144,14 +128,12 @@ a.sidebar-nav-item:focus {
 /* Sidebar location */
 .sidebar-nav-location {
   display: block;
-  margin-bottom: 0.5rem;
-  font-family: "Roboto Thin", sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 2;
 }
 a.sidebar-nav-location:hover,
 a.sidebar-nav-location:focus {
-  font-weight: bold;
+  text-decoration: underline;
 }
 
 
