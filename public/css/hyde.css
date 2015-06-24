@@ -136,8 +136,12 @@ a.sidebar-nav-location:focus {
   text-decoration: underline;
 }
 
-
-
+.sidebar-social{
+  margin-bottom: 1rem;
+}
+.sidebar-social-item{
+  display:inline-block;
+}
 
 /* Sticky sidebar
  *
