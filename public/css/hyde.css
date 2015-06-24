@@ -120,6 +120,8 @@ html {
   margin: 0.5rem auto 0 auto;
   display: inline-block;
   overflow: hidden;
+  margin-left: 0.3em;
+  margin-bottom: 0.1em;
   }
 }
 /* Sidebar nav */
