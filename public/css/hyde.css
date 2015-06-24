@@ -141,6 +141,19 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/* Sidebar location */
+.sidebar-nav-location {
+  display: block;
+  margin-bottom: 1rem;
+}
+a.sidebar-nav-location:hover,
+a.sidebar-nav-location:focus {
+  font-weight: bold;
+}
+
+
+
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
