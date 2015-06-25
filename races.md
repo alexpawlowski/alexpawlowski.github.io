@@ -58,7 +58,7 @@ Didn't race any in the Spring due to a crazy last semester haha
 
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
 
-<p onclick="toggle_visibility('toggle');">Click for the splits</p> <i class="fa fa-chevron-down-fw"></i>
+Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle');"></i>
 <div id="toggle" style="display:none;"><table>
   <thead>
     <th>Event</th>
