@@ -58,8 +58,8 @@ Didn't race any in the Spring due to a crazy last semester haha
 
 * 5 - Sprint - Smithfield Triathlon - Smithfield, VA March 31st
 
-Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle');"></i>
-<div id="toggle" style="display:none;"><table>
+Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle5');"></i>
+<div id="toggle5" style="display:none;"><table>
   <thead>
     <th>Event</th>
     <th>Time</th>
@@ -120,7 +120,8 @@ Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibil
 
 * 2 - Sprint - Jefferson Sprint Triathlon - Raced during Hurricane Irene!
 
-<table>
+Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle2');"></i>
+<div id="toggle2" style="display:none;">
   <tr>
     <th>Event</th>
     <th>Time</th>
