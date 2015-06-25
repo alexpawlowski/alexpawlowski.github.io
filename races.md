@@ -121,7 +121,7 @@ Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibil
 * 2 - Sprint - Jefferson Sprint Triathlon - Raced during Hurricane Irene!
 
 Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle2');"></i>
-<div id="toggle2" style="display:none;">
+<div id="toggle2" style="display:none;"><table>
   <tr>
     <th>Event</th>
     <th>Time</th>
