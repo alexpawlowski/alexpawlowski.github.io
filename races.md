@@ -9,9 +9,13 @@ title: Races
 
 ### 2015
 
-* 19* - Sprint - Storm the Fort Triathlon - Kingston, TN August 22nd
+Ragnar Tennessee - October 23rd - 24th
 
-* 18* - Sprint - West Side Y Triathlon - Knoxville, TN July 11th
+* 20 - Olympic - Goose Pond Island Triathlon - Scottsboro, Al October 4th
+
+* 19 - Sprint - Storm the Fort Triathlon - Kingston, TN August 22nd
+
+* 18 - Sprint - West Side Y Triathlon - Knoxville, TN July 11th 3rd in 20-24 Age Group
 
 #### Spring
 
