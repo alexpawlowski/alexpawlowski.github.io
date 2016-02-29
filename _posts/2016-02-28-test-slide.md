@@ -15,6 +15,12 @@ how to integrate it with [Jekyll](http://jekyllrb.com/)
 </section>
 <section data-markdown>
 ## Woah
-
+```
+{% highlight r linenos %}
+library(leaflet)
+library(plotly)
+plotly(y~x)
+{% endhighlight %}
+```
 let's put some code in here!
 </section>
