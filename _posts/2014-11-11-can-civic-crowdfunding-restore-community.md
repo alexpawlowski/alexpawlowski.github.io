@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crowdfunding: Can a civic campaign restore a rural community?
+title: Crowdfunding Can a civic campaign restore a rural community?
 date: 2014-11-11 11:02
 author: Alex Pawlowski
 comments: true

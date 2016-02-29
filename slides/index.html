@@ -1,0 +1,17 @@
+---
+layout: page
+title: Slides
+---
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.categories.slides %}
+      <li>
+        <span class="post-meta">{{ post.date  | date: "%b %-d, %Y" }}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.url }}">via RSS</a></p>
+</div>

@@ -177,6 +177,7 @@ Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibil
   </tr>
 </table>
 </div>
+
 #### Spring
 
 * Cville Ten Miler

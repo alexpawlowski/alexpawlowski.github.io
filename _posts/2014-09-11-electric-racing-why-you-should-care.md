@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electric racing debuts this weekend: why you should care
+title: Electric racing debuts this weekend; why you should care
 date: 2014-09-11 00:06
 author: Alex Pawlowski
 comments: true

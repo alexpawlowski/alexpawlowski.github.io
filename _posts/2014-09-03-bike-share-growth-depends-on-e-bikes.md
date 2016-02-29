@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bike Share: Continued Growth in Bike Share Readies Acceptance of E-Bikes
+title: Bike Share; Continued Growth in Bike Share Readies Acceptance of E-Bikes
 date: 2014-09-03 23:53
 author: Alex Pawlowski
 comments: true
