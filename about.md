@@ -7,7 +7,7 @@ title: About
   Hey there! I'm Alex Pawlowski, and thanks for stopping by. Let me tell you a little about myself
 </p>
 
-Born and raised in Virginia Beach, I began a PhD program in Energy Science and Engineering at University of Tennessee in June of 2014. Currently, I am starting research in using additive manufacturing to improve vehicle efficiency. I am focusing on engine components to not only improve AM techniques, but to find paths forward that AM could provide to transportation.
+Born and raised in Virginia Beach, I began a PhD program in Energy Science and Engineering at University of Tennessee in June of 2014. Currently, I am conducting research in using additive manufacturing to improve vehicle efficiency. I am focusing on engine components to not only improve AM techniques, but to find paths forward that AM could provide to transportation.
 
 I am not only interested in transportation from the automotive side, but, experiences with VDOT and various commitments in undergrad integrated me into bike advocacy and the larger mobility picture. I love Bikes! and I love finding solutions that enable us to move better and less energy intensive than we have done in the past. In addition, I love the humanity aspect of using alternative modes of transportation to reconnect ourselves with our communities and our environments.
 
