@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Wheeled Bikes: A Novelty or a New Direction?
+title: Three Wheeled Bikes A Novelty or a New Direction?
 date: 2014-08-27 16:38
 author: Alex Pawlowski
 comments: true

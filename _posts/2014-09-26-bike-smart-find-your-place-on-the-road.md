@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bike Smart: Find your place on the road
+title: Bike Smart; Find your place on the road
 date: 2014-09-26 08:20
 author: Alex Pawlowski
 comments: true

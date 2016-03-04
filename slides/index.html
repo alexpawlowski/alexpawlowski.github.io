@@ -1,0 +1,26 @@
+---
+layout: page
+title: Slides
+---
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.categories.slides %}
+      <li>
+        <span class="post-meta">{{ post.date  | date: "%b %-d, %Y" }}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  <h2> Produced with Slides </h2>
+  <ul class ="post-list">
+    <li>
+      <span class="post-meta">Feb 18, 2016
+        <h2>
+          <a class="post-link" href="{{ "mycpp.html" | prepend: site.url }}">myCPP: Building an interactive visualization with scientists and engineers</a>
+        </h2>
+    </li>
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.url }}">via RSS</a></p>
+</div>

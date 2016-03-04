@@ -1,15 +1,17 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
+gems: [jekyll-paginate, jekyll-gist]
+
+kramdown:
+  input: GFM
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            'Alex Pawlowski'
 tagline:          'At the intersection of mobility and additive manufacturing'
-description:      'Triathlete. Graduate Student at the University of Tennessee working towards a PhD in Energy Science and Engineering focusing in Transportation Science.'
+description:      'Triathlete. PhD Student at the University of Tennessee focusing in Transportation Science.'
 baseurl:          /
 location:         'Knoxville, TN'
 
@@ -20,7 +22,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.0
+version:          1.0.3
 
 github:
   repo:           https://github.com/alexpawlowski

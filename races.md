@@ -4,16 +4,99 @@ title: Races
 ---
 
 <p class="message">
-  Below is a good list of the triathlons I have competed in so far. The list will soon be complete, as I fill in my memory blanks
+  Below is a good list of the triathlons I have competed in so far. The list will soon be complete with splits and the like, as I fill in my memory blanks
 </p>
+
+<a name="2016"></a>
+
+### 2016
+
+#### Spring
+
+* 27 (tentative) - XTerra - XTerra Knoxville - Knoxville, TN June 5th
+
+*   Ragnar Tennessee - May 13th - 14th
+
+* 26 - Mixed-Team Relay - USAT Collegiate Nationals - Clemson, SC April 21st
+
+* 25 - Olympic - USAT Collegiate Nationals - Clemson, SC April 21st
+
+* 24 - Sprint - Trideltathon - Knoxville, TN April 17th
+
+* 23 - Sprint - Early Bird Triathlon - Athens, GA April 2nd
+
+* 22 - Sprint - DaretoTri Triathlon - Fort Gordon, GA March 26th
+
+* 21 - Sprint - LaGrange Sprint Triathlon - La Grange, GA March 12th
+
+<a name="2015"></a>
 
 ### 2015
 
-Ragnar Tennessee - October 23rd - 24th
+*   Ragnar Tennessee - October 23rd - 24th
 
 * 20 - Olympic - Goose Pond Island Triathlon - Scottsboro, Al October 4th
 
+*   Lake Lanier Island Triathlon - Swim Leg - Lake Lanier, GA September 27th
+
+*   Anchor Splash Triathlon - Swim Leg - Knoxville, TN September 20th
+
 * 19 - Sprint - Storm the Fort Triathlon - Kingston, TN August 22nd
+
+Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle19');"></i>
+<div id="toggle19" style="display:none;">
+  <table>
+    <tr>
+      <th>Event</th>
+      <th>Time</th>
+      <th>Place</th>
+      <th>Distance</th>
+      <th>Pace</th>
+    </tr>
+    <tr>
+      <td>Swim</td>
+      <td>10:47</td>
+      <td>25</td>
+      <td>600m</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>T1</td>
+      <td>1:53</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Bike</td>
+      <td>1:02:28</td>
+      <td>73</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>T2</td>
+      <td>1:06</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Run</td>
+      <td>36:00</td>
+      <td>47</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Finish</td>
+      <td>1:52:12</td>
+      <td>55</td>
+      <td><a href="http://racedayevents.net/files/5814/4027/3715/UPDATED_2015_STF_SPRINT_TRASITIONS_AND_SPLITS.txt">Results</a></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 * 18 - Sprint - West Side Y Triathlon - Knoxville, TN July 11th 3rd in 20-24 Age Group
 
@@ -24,6 +107,8 @@ Ragnar Tennessee - October 23rd - 24th
 * 16 - 5K leg of Sprint - Trideltathon - Knoxville, TN 2nd in Mixed - Relay Division
 
 * 15 - Sprint - Columbia Sprint Triathlon - Columbia, SC
+
+<a name="2014"></a>
 
 ### 2014
 
@@ -39,6 +124,8 @@ Ragnar Tennessee - October 23rd - 24th
 
 Didn't race any in the Spring due to a crazy last semester haha
 
+<a name="2013"></a>
+
 ### 2013
 
 * 11 - Olympic - Half Full Triathlon - MACTC Conference Champs - Columbia, MD
@@ -47,6 +134,7 @@ Didn't race any in the Spring due to a crazy last semester haha
 
 * 9 - Olympic - 2013 USAT Collegiate Nationals - Tempe, AZ
 
+<a name="2012"></a>
 
 ### 2012
 
@@ -116,6 +204,8 @@ Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibil
 </table>
 </div>
 
+<a name="2011"></a>
+
 ### 2011
 
 * 4 - Sprint - Naylor Beach Triathlon - Naylor Beach, VA September 25th - Won 16-19 Age Group! [Results] (http://www.fasttrackcoaching.net/timing/Results/2011-NAYLORS-BEACH-RESULTS.txt)
@@ -177,6 +267,7 @@ Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibil
   </tr>
 </table>
 </div>
+
 #### Spring
 
 * Cville Ten Miler
