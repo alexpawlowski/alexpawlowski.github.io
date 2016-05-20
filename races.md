@@ -4,7 +4,7 @@ title: Races
 ---
 
 <p class="message">
-  Below is a good list of the triathlons I have competed in so far. The list will soon be complete with splits and the like, as I fill in my memory blanks
+  Below is a list of the triathlons I have competed in so far. I'll fill in some major foot races as well!
 </p>
 
 <a name="2016"></a>
@@ -13,13 +13,13 @@ title: Races
 
 #### Spring
 
-* 27 (tentative) - XTerra - XTerra Knoxville - Knoxville, TN June 5th
+* [injury] - XTerra - XTerra Knoxville - Knoxville, TN June 5th
 
-*   Ragnar Tennessee - May 13th - 14th
+*   Ragnar Tennessee - May 13th - 14th - Team Bloodbath and Beyond!
 
-* 26 - Mixed-Team Relay - USAT Collegiate Nationals - Clemson, SC April 21st
+* [injury] - Mixed-Team Relay - USAT Collegiate Nationals - Clemson, SC April 21st
 
-* 25 - Olympic - USAT Collegiate Nationals - Clemson, SC April 21st
+* [injury] - Olympic - USAT Collegiate Nationals - Clemson, SC April 21st
 
 * 24 - Sprint - Trideltathon - Knoxville, TN April 17th
 

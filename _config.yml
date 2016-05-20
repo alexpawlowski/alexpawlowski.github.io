@@ -21,6 +21,9 @@ author:
 
 paginate:         5
 
+collections:
+  - projects
+
 # Custom vars
 version:          1.0.3
 
