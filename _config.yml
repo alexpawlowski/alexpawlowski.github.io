@@ -22,7 +22,9 @@ author:
 paginate:         5
 
 collections:
-  - projects
+  - projects:
+      output: true
+      permalink: /projects/
 
 # Custom vars
 version:          1.0.3
