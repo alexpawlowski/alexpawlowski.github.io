@@ -45,7 +45,48 @@ html {
   }
 }
 
-
+/*
+ * Edits for Textarea
+ */
+ input[type = "text"]{
+   font-family:sans-serif;
+   border:solid 4px #009688;
+   border-radius: 5px;
+   padding:7px 14px;
+   margin-bottom:10px;
+   width: 40%;
+ }
+ input[type = "text"]:focus {
+   outline:none;
+   border-color:#754A7E;
+ }
+ textarea {
+   font-family:sans-serif;
+   border:solid 4px #009688;
+   border-radius: 5px;
+   padding:7px 14px;
+   margin-bottom:10px;
+   width: 40%;
+ }
+ textarea:focus {
+   outline:none;
+   border-color:#754A7E;
+ }
+button[type="submit"]{
+  font-family:sans-serif;
+  color: #fff;
+  background: #009688;
+  border:solid 4px #009688;
+  border-radius: 5px;
+  padding:7px 14px;
+  margin-bottom:10px;
+  width: 20%;
+}
+button[type="submit"]:hover {
+  outline:none;
+  background: #754A7E;
+  border-color:#754A7E;
+}
 /*
  * Sidebar
  *

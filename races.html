@@ -1,0 +1,38 @@
+---
+layout: default
+title: races
+---
+<section id="races">
+  <ol reversed>
+{% assign races = site.races | sort: 'date' | reverse %}
+{% for race in races %}
+<li>
+  <h2>{{ race.title }}</h2>
+  <p>{{ race.date | date: '%B %d, %Y' }}</p><p>{{race.location}}</p>
+  {% if race.results %}<p><a href="{{race.results}}">Results</a></p>{% endif %}
+  {% if race.splits %}Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle{{race.date | date: '%B%d%Y'}}');"></i>
+  <div id="toggle{{race.date | date: '%B%d%Y'}}" style="display:none;">
+    <table>
+      <tr>
+        <th>Event</th>
+        <th>Time</th>
+        <th>Place</th>
+        <th>Distance</th>
+        <th>Pace</th>
+      </tr>
+        {% for split in race.splits %}
+      <tr>
+        <td>{{ split.event }}</td>
+        <td>{{ split.duration }}</td>
+        <td>{{ split.place }}</td>
+        <td>{{ split.distance }}</td>
+        <td>{{ split.pace }}</td>
+      </tr>
+        {% endfor %}
+    </table>
+  </div>
+  {% endif %}
+</li>
+{% endfor %}
+</ol>
+</section>

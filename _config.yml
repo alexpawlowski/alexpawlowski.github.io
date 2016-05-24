@@ -5,13 +5,15 @@ gems: [jekyll-paginate, jekyll-gist]
 kramdown:
   input: GFM
 
+include:  ["_pages"]
+
 # Permalinks
-permalink:        pretty
+permalink:        /:title/
 
 # Setup
 title:            'Alex Pawlowski'
 tagline:          'At the intersection of mobility and additive manufacturing'
-description:      'Triathlete. PhD Student at the University of Tennessee focusing in Transportation Science.'
+description:      'Triathlete. PhD Student at Tennessee focusing in Transportation Science.'
 baseurl:          /
 location:         'Knoxville, TN'
 
@@ -22,12 +24,14 @@ author:
 paginate:         5
 
 collections:
-  - projects:
+  projects:
       output: true
-      permalink: /projects/
+      permalink: /projects/:path/
+  races:
+      output: true
 
 # Custom vars
-version:          1.0.3
+version:          1.1.0
 
 github:
   repo:           https://github.com/alexpawlowski

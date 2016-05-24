@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Races
+title: Races Page
+permalink: "/races-page/"
 ---
 
 <p class="message">
@@ -42,61 +43,6 @@ title: Races
 *   Anchor Splash Triathlon - Swim Leg - Knoxville, TN September 20th
 
 * 19 - Sprint - Storm the Fort Triathlon - Kingston, TN August 22nd
-
-Click for the splits <i class="fa fa-chevron-down fa-fw" onclick="toggle_visibility('toggle19');"></i>
-<div id="toggle19" style="display:none;">
-  <table>
-    <tr>
-      <th>Event</th>
-      <th>Time</th>
-      <th>Place</th>
-      <th>Distance</th>
-      <th>Pace</th>
-    </tr>
-    <tr>
-      <td>Swim</td>
-      <td>10:47</td>
-      <td>25</td>
-      <td>600m</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>T1</td>
-      <td>1:53</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Bike</td>
-      <td>1:02:28</td>
-      <td>73</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>T2</td>
-      <td>1:06</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Run</td>
-      <td>36:00</td>
-      <td>47</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Finish</td>
-      <td>1:52:12</td>
-      <td>55</td>
-      <td><a href="http://racedayevents.net/files/5814/4027/3715/UPDATED_2015_STF_SPRINT_TRASITIONS_AND_SPLITS.txt">Results</a></td>
-      <td></td>
-    </tr>
-  </table>
-</div>
 
 * 18 - Sprint - West Side Y Triathlon - Knoxville, TN July 11th 3rd in 20-24 Age Group
 

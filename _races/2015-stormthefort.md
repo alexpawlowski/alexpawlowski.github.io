@@ -1,11 +1,12 @@
+---
 title: "Storm the Fort Triathlon"
 date: "2015-08-22"
-location: "Kingston, TN"
+location: Kingston, TN
 time: 1:52:12
 rank: 55
-results [Results](http://racedayevents.net/files/5814/4027/3715/UPDATED_2015_STF_SPRINT_TRASITIONS_AND_SPLITS.txt)
+results: http://racedayevents.net/files/5814/4027/3715/UPDATED_2015_STF_SPRINT_TRASITIONS_AND_SPLITS.txt
 splits:
-  - event: "swim"
+  - event: "Swim"
     duration: "10:47"
     place: "25"
     distance: "600m"
@@ -24,3 +25,4 @@ splits:
     place: "73"
     distance: "4.5mi"
     pace: ""
+---
