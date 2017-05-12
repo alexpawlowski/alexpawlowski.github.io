@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/alexpawlowski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexpawlowski.me
+  * I am alexpawlowski (https://keybase.io/alexpawlowski) on keybase.
+  * I have a public key with fingerprint 29E4 84AB 9DDD 0286 933D  542C 72EB 4CC2 2DD8 5222
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010187feb20a053164c7640ff241357c41d93594b17426c4cf3c3aa3686460ad503a0a",
+            "fingerprint": "29e484ab9ddd0286933d542c72eb4cc22dd85222",
+            "host": "keybase.io",
+            "key_id": "72eb4cc22dd85222",
+            "kid": "010187feb20a053164c7640ff241357c41d93594b17426c4cf3c3aa3686460ad503a0a",
+            "uid": "c6e9fd44926bbb844d5f47ce18a1c519",
+            "username": "alexpawlowski"
+        },
+        "service": {
+            "hostname": "alexpawlowski.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494608913,
+    "expire_in": 157680000,
+    "prev": "7fd8414e930f566e4baf14a673f115f8c553a684f0be6edef3adbd9a5f54b556",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBRRGF6v6aZtJULRQzCF+LDpzJlzZmcWKyFfuhEaFYWxnNu4g7qz
+zcyuqfhQ5EtFaBEEUUYKkhIilQVBdNGKeikJoqKb3RBlCbsiSJ2Reuux8/Jz/v/7
+vv/7f/7R4pxAMKttfCpevyj/ZtbDWz2pwO7S6SXtErFZqxRtlxr5fOBNjLterNFi
+UlSSFVnRIyYnQMYyUhUN0ogGZdMEUFFRhEKFGSoyIFEiEGgUUlOlKsaqpmtQkzFD
+soplLIUl00o0cCfpWAlPyAKDQx1iYjDGZKBrhqoyBAGNAE4gpQAwpiMAgCDGbddn
+CHMEu7zCskVOfGLz9v6B/8++U/NyVOOGySA0gEYI0SFkyIQRyhUdKxQphg90uZPA
+zVygcRPfn8QtTXaL22hJHWFJlNIW5f52/XH+BasQqbCUdGzPpnaTqMY9Lxn1yV5r
+0ke3cBL7oxMjVoKJfQpCmjuuZSekqCKQ1LN8YQUaYgbdUNSwJDpYDo9ZPgJFNF0W
+z2/D0/72TKZDBXJDlU2kaRwSbCoQaxHVVBRk6hQhFWs6NGXCNc64qWJGmIGRiSBB
+SJP8yfYlbCkKhU3cICRdqyGBvZTDpY7bN+tzA1nBQH5etn9ngWDh4r/XNzlYELga
+HTk1fp160cqWd4tq3lbE84KdweyPY23p0an84tTJ2eNFLy8+2FoH+na0PX7y6uPS
+kUugfm+6YKakMrf0+Zfpg/rPiuqnX/c8etSzmGSGqH255HW582Nh+Fj3+feTzfjD
+bPWW4VCeFarqKuwuP9Q3t2G6/cDR3qodQw+vn2nvObN0zZ1N31691AdLTi1YNVP2
+eWty+8SeE+eXJ2e+73yzrbN2fEF09RWycuBCf93EvWddK3qz1w+oRWs3vrgxEHo8
+dyz3k0p6C46AsbLKGxn3aGguZ11Vbf+H7uHML+DMdoAhzvoyYOXI3funD6fs5LPM
+sruNa3YFcmto7Nrmsz/PFf0GAUxB6A==
+=5+yh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexpawlowski
+
+==================================================================
