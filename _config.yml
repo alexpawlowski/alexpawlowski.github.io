@@ -1,9 +1,8 @@
 # Dependencies
-highlighter:      rouge
-gems: [jekyll-paginate, jekyll-gist]
+plugins:
+  - github-pages
 
-kramdown:
-  input: GFM
+markdown: kramdown
 
 include:  ["_pages"]
 
@@ -31,7 +30,7 @@ collections:
       output: true
 
 # Custom vars
-version:          1.1.0
+version:          1.2.0
 
 github:
   repo:           https://github.com/alexpawlowski
