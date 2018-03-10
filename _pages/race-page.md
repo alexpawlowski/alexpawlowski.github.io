@@ -8,6 +8,24 @@ permalink: "/races-page/"
   Below is a list of the triathlons I have competed in so far. I'll fill in some major foot races as well!
 </p>
 
+<a name="2017"></a>
+
+### 2017
+
+#### Fall
+
+*  `Olympic` Oak Ridge, TN October 7th
+
+*  `Sprint` Lake Lanier Island Triathlon - Lake Lanier, GA September 27th
+
+#### Summer
+
+
+#### Spring
+
+
+* 
+
 <a name="2016"></a>
 
 ### 2016

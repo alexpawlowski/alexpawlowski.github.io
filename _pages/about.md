@@ -14,7 +14,7 @@ I am not only interested in transportation from the automotive side, but, experi
 
 At the University of Virginia, I completed a Double Major in Mechanical Engineering and Material Science through the Engineering Science Program. While at UVa I competed with the Triathlon Team at the University of Virginia where I came to love the sport, competing in 12 races and 2 National Championships. My prides and joy were immersing myself with the Green Grounds Group, Virginia Baja Racing, Student Council, Engineering Student Council, and the various other green involvements I found myself in.
 
-While I had a lot of involvements, each one helped me to exercise my diverse passions and push me forward to where I am now. I am still on my journey to find my future career in the future of sustainable transportation via the automotive industry of which I hope to achieve following my completion of my PhD with the Bredesen Center. Follow the stories I'm following and sharing on Twitter: [@apawlows_](https://twitter.com/apawlows).
+While I had a lot of involvements, each one helped me to exercise my diverse passions and push me forward to where I am now. I am still on my journey to find my future career in the future of sustainable transportation via the automotive industry of which I hope to achieve following my completion of my PhD with the Bredesen Center. Follow the stories I'm following and sharing on Twitter: [@apawlows](https://twitter.com/apawlows).
 
 Thanks for reading!
 

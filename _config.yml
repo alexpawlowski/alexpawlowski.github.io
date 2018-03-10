@@ -2,6 +2,8 @@
 plugins:
   - github-pages
 
+highlighter: rouge
+
 markdown: kramdown
 
 include:  ["_pages"]
@@ -12,15 +14,15 @@ permalink:        /:title/
 # Setup
 title:            'Alex Pawlowski'
 tagline:          'At the intersection of mobility and additive manufacturing'
-description:      'Triathlete. PhD Student at Tennessee focusing in Transportation Science.'
+description:      'Triathlete. PhD student at Tennessee applying additive mfg in transportation materials'
 baseurl:          /
 location:         'Knoxville, TN'
-
-author:
+_author:
   name:           '@AlexPawlowski_'
   url:            https://twitter.com/AlexPawlowski_
 
 paginate:         5
+excerpt-separator: <!--more-->
 
 collections:
   projects:
@@ -34,3 +36,9 @@ version:          1.2.0
 
 github:
   repo:           https://github.com/alexpawlowski
+
+accounts:
+  - github: alexpawlowski
+  - twitter: apawlows
+  - linkedin: alexpawlowski
+  - google_scholar: MLhGOi4AAAAJ
