@@ -18,8 +18,8 @@ description:      'Triathlete. PhD student at Tennessee applying additive mfg in
 baseurl:          /
 location:         'Knoxville, TN'
 _author:
-  name:           '@AlexPawlowski_'
-  url:            https://twitter.com/AlexPawlowski_
+  name:           '@apawlows'
+  url:            https://twitter.com/apawlows
 
 paginate:         5
 excerpt-separator: <!--more-->
