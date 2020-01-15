@@ -36,6 +36,18 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
     background: $masthead-link-color-hover !important; 
 }
 
+.greedy-nav .hidden-links a{
+    color: mix(#000, $background-color, 70%) !important;
+}
+
+.navicon:before, .navicon, .navicon:after {
+    background: $dark-gray !important;
+}
+
+.greedy-nav__toggle:hover.close .navicon {
+    background: transparent !important;
+}
+
 .greedy-nav {
     background: $gray !important;
 }
@@ -43,6 +55,8 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .author__urls.social-icons .svg-inline--fa {
     color: $gray;
 }
+
+
 
 /* footer */
 $footer-background-color:   $highlight-color;
