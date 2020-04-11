@@ -8,6 +8,16 @@ permalink: "/races/"
   I'll fill in some major foot races as well!
 ```
 
+```ruby
+{% for races in site.data.races %}
+  {% comment %}
+    insert card code
+    probably separate out triathlons from run races
+    maybe implement a search box to search through the cards, dynamically bringing them up.
+  {% endcomment %}
+{% endfor %}
+```
+
 <a name="2017"></a>
 
 ### 2017
